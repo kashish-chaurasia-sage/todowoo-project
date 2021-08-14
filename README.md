@@ -43,27 +43,27 @@ git clone https://gitlab.com/kashish10/todowoo-project.git
 Go inside the folder :
 
 ```bash
-cd todowoo-project
+$ cd todowoo-project
 ```
 
 Create super-user for your DB admin :
 
 ```bash
-python manage.py createsuperuser
+$ python manage.py createsuperuser
 ```
 
 Make DB migrations :
 
 ```bash
-python manage.py makemigrations
+$ python manage.py makemigrations
 
-python manage.py migrate
+$ python manage.py migrate
 ```
 
 Run server :
 
 ```bash
-python manage.py runserver
+$ python manage.py runserver
 ```
 
 Go-to Localhost : [localhost](http://127.0.0.1:8000/)
