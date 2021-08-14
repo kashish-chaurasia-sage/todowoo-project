@@ -37,7 +37,7 @@ $ pip3 install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://gitlab.com/kashish10/todowoo-project.git
+$ git clone https://gitlab.com/kashish10/todowoo-project.git
 ```
 
 Go inside the folder :
