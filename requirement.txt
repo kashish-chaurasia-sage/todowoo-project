@@ -1,0 +1,13 @@
+Django==3.1.7
+mysql-connector-python==8.0.26
+Pillow==8.3.1
+PyAutoGUI==0.9.52
+pycodestyle==2.6.0
+PyGetWindow==0.0.9
+pylint==2.6.0
+PyScreeze==0.1.26
+requests==2.25.1
+sqlparse==0.4.1
+urllib3==1.26.3
+virtualenv==20.4.2
+virtualenvwrapper-win==1.2.6
