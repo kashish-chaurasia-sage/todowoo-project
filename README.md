@@ -32,6 +32,7 @@ Install dependencies:
 $ virtualenv MRS
 $ source MRS/bin/activate
 $ pip3 install -r requirements.txt
+```
 
 Clone the repository:
 
@@ -65,9 +66,7 @@ Run server :
 python manage.py runserver
 ```
 
-Go-to Localhost :
-
-Website: [localhost](http://127.0.0.1:8000/)
+Go-to Localhost : [localhost](http://127.0.0.1:8000/)
 
 You can see that the todowoo project is up, you can now modify the contents accordingly. All the static file or images are in static folder.
 
