@@ -11,9 +11,9 @@ Features
 * Prioritize to tasks.
 * Simple and straight forward digital way to track you daily tasks and prioritize it.
 
-What you will learn while building up this project
+Learnt while building up this project
 --------------------------------------------------
-You will learn how to:
+How to:
 
 - Work with the authentication system (sign up, login, logout)
 - Create virtual environments
